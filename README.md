@@ -1,0 +1,1 @@
+Create your personal web page by using GitHub. Your personal web page should contain your name & photo (professional attire is must), brief description about you (short bio), and a <CV/Resume link> of your PDF resume
